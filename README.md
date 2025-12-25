@@ -24,7 +24,7 @@ python visualize.py
 
 Make sure your sample images are in the sample/images/ folder and corresponding masks are in sample/annotations/.
 
-Please cite our Open Access journal paper: 
+For a detailed description of the formalism and derivations used in this project, please refer to the following paper:
 
 I.Z. Borshon, V. Jabbari, T.A. Kingston, R. Shahbazian‐Yassar, V. Yurkiv, Deep Learning Analysis of Solid‐Electrolyte Interphase Microstructures in Lithium‐Ion Batteries, Adv Mater Interfaces (2025). https://doi.org/10.1002/admi.202500558.
 
