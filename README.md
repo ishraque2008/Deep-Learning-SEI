@@ -33,7 +33,7 @@ I.Z. Borshon, V. Jabbari, T.A. Kingston, R. Shahbazian‐Yassar, V. Yurkiv, Deep
 
 
 
-# Citing
+## Citing
 
 @article{borshon2025deep,
   title={Deep Learning Analysis of Solid-Electrolyte Interphase Microstructures in Lithium-Ion Batteries},
