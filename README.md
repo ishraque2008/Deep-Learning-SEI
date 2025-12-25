@@ -35,21 +35,13 @@ I.Z. Borshon, V. Jabbari, T.A. Kingston, R. Shahbazian‐Yassar, V. Yurkiv, Deep
 
 ## Citing
 
-@article{borshon2025deep,
-
-  title={Deep Learning Analysis of Solid-Electrolyte Interphase Microstructures in Lithium-Ion Batteries},
-  
+@article{borshon2025deep,  
+  title={Deep Learning Analysis of Solid-Electrolyte Interphase Microstructures in Lithium-Ion Batteries},  
   author={Borshon, Ishraque Zaman and Jabbari, Vahid and Kingston, Todd A and Shahbazian-Yassar, Reza and Yurkiv, Vitaliy},
-
   journal={Advanced Materials Interfaces},
-  
-  volume={12}
-  
-  number={21}
-  
-  pages={e00558}
-  
-  year={2025}
-  
+  volume={12},
+  number={21},
+  pages={e00558},
+  year={2025},
   publisher={Wiley Online Library}
 }
