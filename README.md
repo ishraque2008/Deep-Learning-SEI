@@ -23,3 +23,5 @@ cd Visualize
 python visualize.py
 
 Make sure your sample images are in the sample/images/ folder and corresponding masks are in sample/annotations/.
+<img width="975" height="636" alt="Overview" src="https://github.com/user-attachments/assets/1ea19cc4-ff52-4d8d-b7a8-b43e08ecdcae" />
+
